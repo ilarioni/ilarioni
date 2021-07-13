@@ -1,5 +1,6 @@
 ### Hey there 👋 
 
+👨🏻‍💻 I am a Web Front-end Developer
 
 <!--
 **ilarioni/ilarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
