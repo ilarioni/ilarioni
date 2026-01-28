@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-🤖 I am Software Developer
+🤖 I am Software Engineer
 
 <!--
 **ilarioni/ilarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
