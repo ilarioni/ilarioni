@@ -1,8 +1,8 @@
 ### Hey there 👋 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320" alt="pixel fire animation" />
-</p>
+</p> -->
 
 <p align="center">
   Full-Stack Software Engineer | Product Builder | Founder | AI Reviewer | Requiremenets Engineer
