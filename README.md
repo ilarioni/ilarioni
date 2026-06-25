@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  Full-Stack Software Engineer | Product Builder | Founder | AI Reviewer | Requiremenets Engineer
+  Full-Stack AI Software Engineer | AI Product Builder | AI Reviewer | Requiremenets Engineer | Founder
 </p>
 
 <!--
